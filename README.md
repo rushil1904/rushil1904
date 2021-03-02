@@ -29,9 +29,7 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I like editing videos in my free time.
 
-[![Twitter: rushil1904](https://img.shields.io/twitter/follow/rushil1904?style=social)](https://twitter.com/rushil1904)
-[![Linkedin: rushil1904](https://img.shields.io/badge/-rushil1904-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rushil1904/)](https://www.linkedin.com/in/rushil1904/)
-[![GitHub rushil1904](https://img.shields.io/github/followers/rushil1904?label=follow&style=social)](https://github.com/rushil1904)
+
 
 
 **Languages:**  
@@ -49,3 +47,6 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rushil1904&show_icons=true&theme=light&line_height=27" alt="Rushil's github stats"/>
 </a>
 
+[![Twitter: rushil1904](https://img.shields.io/twitter/follow/rushil1904?style=social)](https://twitter.com/rushil1904)
+[![Linkedin: rushil1904](https://img.shields.io/badge/-rushil1904-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rushil1904/)](https://www.linkedin.com/in/rushil1904/)
+[![GitHub rushil1904](https://img.shields.io/github/followers/rushil1904?label=follow&style=social)](https://github.com/rushil1904)
