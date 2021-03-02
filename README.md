@@ -5,10 +5,10 @@
 
 
 <a href="https://twitter.com/rushil1904">
-  <img align="left" alt="Rushil's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="Rushil's Twitter" width="22px" src="https://images.vexels.com/media/users/3/137419/isolated/preview/b1a3fab214230557053ed1c4bf17b46c-twitter-icon-logo-by-vexels.png" />
 </a>
 <a href="https://linkedin.com/in/rushil1904">
-  <img align="left" alt="Rushil's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Rushil's Linkdein" width="22px" src="https://images.vexels.com/media/users/3/137382/isolated/preview/c59b2807ea44f0d70f41ca73c61d281d-linkedin-icon-logo-by-vexels.png" />
 </a>
 <a href="https://github.com/rushil1904">
   <img align="left" alt="Rushil's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
