@@ -21,7 +21,6 @@
 
 - 🔭 I’m currently working on COVID-19 research.
 - 🌱 I’m currently learning Machine Learning.
-- 📫 How to reach me: [Twitter - @rushil1904](https://twitter.com/rushil1904) , [Linkedin - @rushil1904](https://linkedin.com/in/rushil1904)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I like editing videos in my free time.
 
