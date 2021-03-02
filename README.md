@@ -2,7 +2,7 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rushil1904&label=Views&color=blue&style=plastic" alt="rushil1904" /> </p>
-<p align="left"> ![View Count](https://profile-counter.glitch.me/rushil1904/count.svg)</p>
+
 
 <a href="https://twitter.com/rushil1904">
   <img align="left" alt="Rushil's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
