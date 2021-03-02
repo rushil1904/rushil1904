@@ -11,7 +11,7 @@
   <img align="left" alt="Rushil's Linkdein" width="22px" src="https://images.vexels.com/media/users/3/137382/isolated/preview/c59b2807ea44f0d70f41ca73c61d281d-linkedin-icon-logo-by-vexels.png" />
 </a>
 <a href="https://github.com/rushil1904">
-  <img align="left" alt="Rushil's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  <img align="left" alt="Rushil's Github" width="22px" src="https://img.icons8.com/color/344/github--v1.png" />
 </a>
 
 
