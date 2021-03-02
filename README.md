@@ -21,7 +21,6 @@
 
 - 🔭 I’m currently working on COVID-19 research.
 - 🌱 I’m currently learning Machine Learning.
-- 💬 Ask me about Data Analysis or any other tech related stuff.
 - 📫 How to reach me: [Twitter - @rushil1904](https://twitter.com/rushil1904) , [Linkedin - @rushil1904](https://linkedin.com/in/rushil1904)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I like editing videos in my free time.
@@ -38,10 +37,10 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code> 
 
 <a href="https://github.com/rushil1904">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rushil1904&theme=dracula&hide_langs_below=1" />
-</a><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rushil1904&theme=dracula&hide_langs_below=1" />
+</a>
 <a href="https://github.com/rushil1904">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=rushil1904&show_icons=true&theme=light&line_height=27&hide=stars,contribs&count_private=true" alt="Rushil's github stats"/>
+ <img src="https://github-readme-stats.vercel.app/api?username=rushil1904&show_icons=true&theme=light&line_height=27&hide=stars,contribs&count_private=true" alt="Rushil's github stats"/>
 </a>
 
 [![Twitter: rushil1904](https://img.shields.io/twitter/follow/rushil1904?style=social)](https://twitter.com/rushil1904)
