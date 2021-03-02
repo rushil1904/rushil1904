@@ -40,7 +40,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rushil1904&theme=dracula&hide_langs_below=1" />
 </a>
 <a href="https://github.com/rushil1904">
- <img src="https://github-readme-stats.vercel.app/api?username=rushil1904&show_icons=true&theme=light&line_height=27&hide=stars,contribs&count_private=true" alt="Rushil's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=rushil1904&show_icons=true&theme=light&line_height=27&hide=stars,contribs&count_private=true" alt="Rushil's github stats"/>
 </a>
 
 [![Twitter: rushil1904](https://img.shields.io/twitter/follow/rushil1904?style=social)](https://twitter.com/rushil1904)
