@@ -22,7 +22,7 @@
 - 🔭 I’m currently working on COVID-19 research.
 - 🌱 I’m currently learning Machine Learning.
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I like editing videos in my free time.
+- ⚡ Fun fact: Hobbyist video editor and Youtuber.
 
 
 
