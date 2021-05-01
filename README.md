@@ -20,7 +20,6 @@
 
 
 - 🔭 I’m currently working on COVID-19 research.
-- 🌱 I’m currently learning Machine Learning.
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Hobbyist video editor and Youtuber.
 
