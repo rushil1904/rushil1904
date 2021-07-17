@@ -19,7 +19,7 @@
 <br/>
 
 
-- 🔭 I’m currently working on COVID-19 research.
+- 🔭 I’m currently analysing Bladder Cancer Data.
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Hobbyist video editor and Youtuber.
 
