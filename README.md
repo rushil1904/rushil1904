@@ -21,7 +21,7 @@
 
 - 🔭 I’m currently analysing Bladder Cancer Data.
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: Hobbyist video editor and Youtuber.
+- ⚡ Fun fact: Hobbyist video editor and Chess Player.
 
 
 
