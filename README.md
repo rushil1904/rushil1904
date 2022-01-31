@@ -19,7 +19,7 @@
 <br/>
 
 
-- 🔭 I’m currently analysing Bladder Cancer Data.
+- 💻 I’m currently learning blockchain development.
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Hobbyist video editor and Chess Player.
 
