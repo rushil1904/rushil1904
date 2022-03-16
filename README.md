@@ -34,6 +34,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code> 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code> 
+<code><img height="20" src="https://w7.pngwing.com/pngs/895/275/png-transparent-solidity-ethereum-smart-contract-blockchain-cryptocurrency-blockchain-angle-triangle-logo.png"></code>
 
 <a href="https://github.com/rushil1904">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rushil1904&theme=dracula&hide_langs_below=1" />
