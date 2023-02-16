@@ -19,7 +19,7 @@
 <br/>
 
 
-- 💻 I’m currently learning blockchain development.
+- 💻 I’m currently learning blockchain development and music production.
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Hobbyist video editor and Chess Player.
 
